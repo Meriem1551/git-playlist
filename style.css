@@ -36,5 +36,5 @@ font-family: 'Courier New', Courier, monospace;
 font-weight: bold;
 }
 button{
-  background: linear-gradient(rgb(65, 5, 5), rgb(254, 233, 183));
+  background: linear-gradient(30deg, rgb(41, 31, 11), rgb(255, 242, 208));
 }

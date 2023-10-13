@@ -1,4 +1,4 @@
 function click(){
-    alert('I forked it sugoiiii');
+alert('hi');
 }
-console.log("Done")
+console.log("I forked it uhoooo")
